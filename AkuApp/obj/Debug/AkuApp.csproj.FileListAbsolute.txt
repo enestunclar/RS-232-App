@@ -1,0 +1,24 @@
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\AkuApp.exe.config
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\AkuApp.exe
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\AkuApp.pdb
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\ControlzEx.dll
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\MahApps.Metro.dll
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\MaterialIcons.dll
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\MaterialSkin.dll
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\MetroSet UI.dll
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\ControlzEx.pdb
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\MahApps.Metro.pdb
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\MahApps.Metro.xml
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\obj\Debug\AkuApp.csprojAssemblyReference.cache
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\obj\Debug\AkuApp.Form1.resources
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\obj\Debug\AkuApp.Properties.Resources.resources
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\obj\Debug\AkuApp.csproj.GenerateResource.cache
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\obj\Debug\AkuApp.csproj.CoreCompileInputs.cache
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\obj\Debug\AkuApp.csproj.CopyComplete
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\obj\Debug\AkuApp.exe
+C:\Users\TUNÇLAR\source\repos\AkuApp\AkuApp\obj\Debug\AkuApp.pdb
